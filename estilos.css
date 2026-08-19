@@ -1,6 +1,6 @@
 body {
     padding: 20px;
-    background-color: gray;
+    background-color: blue;
 }
 
 p {
@@ -22,4 +22,8 @@ img{
     margin-right: auto;
     text-align: center;
     margin-bottom: 50px;
+}
+h1 {
+    text-align: center;
+    margin-top: 10px;
 }
