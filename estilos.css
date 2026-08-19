@@ -12,3 +12,8 @@ img{
     width: 100%;
     height: auto;
 }
+.inicio {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
