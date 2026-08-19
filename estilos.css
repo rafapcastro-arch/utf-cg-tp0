@@ -2,7 +2,11 @@ p {
     font-size: 20px;
     font-family: "Comic Sans", cursive;
 }
-
+img{
+    max-width: 250px;
+    width: 100%;
+    height: auto;
+}
 .foto {
     max-width: 250px;
     width: 100%;
